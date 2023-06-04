@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokémon fire red and Leaf Green</title>
+</head>
+<body>
+    
+        <h1>Pokémon fire red and leaf green - Pokémons exclusivos de cada versão</h1>
+        <blockquote><a href="https://www.instagram.com/skyles.wav" type="_blank" rel="extern"><img src="imagens/instagram2.png" alt="Instagram"></a> <a href="https://www.github.com/Skyles-wav" type="_blank" rel="extern"><img src="imagens/github.png" alt="github"></a></blockquote>
+            <blockquote>
+        
+            <picture>
+                <source media="(max-width: 500px )" srcset="imagens/pokemon-p.jpg" type="image/jpg">
+                <source media="(max-width: 1000px )" srcset="imagens/pokemon-m.jpg" type="image/jpg">
+                <img src="imagens/pokemon-g.jpg" alt="Pokémon grande">
+            </picture>
+        
+        
+            <p><big>Toda geração de pokémon possui Pokémons exclusivos de cada versão, e <br> em Fired Red e Leaf Green isso não é diferente.</big></p>
+            <br>
+            <p><big>Omotivo dessa exclusividade (além de vender mais jogos, é claro) é <br> incentivar a cooperação e o compartilhamento entre os jogadores.</big></p>
+            <br>
+            <p><big>No post de hoje, trazemos mais monstrinhos são exclusivos do remake da geração 1, <br> lançado pra GameBoy Advance.</big></p>
+       
+        <br>
+        <ul>
+            <li><a href="https://www.pokemon.com/br/episodios-pokemon/01_01-pokemon-eu-escolho-voce" type="_blank" rel="extern"><big>Assista ao anime original no Pokémon TV!</big></a></li>
+            <br>
+            <li><a href="https://www.pokemon.com/br/pokedex/" type="_blank" rel="extern"><big>Veja a Pokédex clássica de Pokémon!</big></a></li>
+        </ul>
+        <h2>Todos os Pokémon exclusivos de Fire red e LeafGreen</h2>
+        <picture>
+            <source media="(max-width: 500px )" srcset="imagens/pokemon-p.jpg" type="image/jpg">
+            <source media="(max-width: 1000px)" srcset="imagens/pokemon-m.jpg" type="image/jpg">
+            <img src="imagens/pokemon-g.jpg" alt="Pokémon Grande">
+        </picture>
+        <h3>Pokémon exclusivos do Fire Red</h3>
+        <ul>
+            <li><big>Ekans</big></li>
+            <br>
+            <img src="imagens/ekans2.png" alt="Ekans pixel art">
+            <li><big>Arbok</big></li>
+            <br>
+            <img src="imagens/arbok2.png" alt="Arbok pixel art">
+            <li><big>Oddish</big></li>
+            <br>
+            <img src="imagens/oddish2.png" alt="Oddish">
+            <li><big>Gloom</big></li>
+            <br>
+            <img src="imagens/GLOOM.png" alt="gloom">
+            <li><big>Vileplume</big></li>
+            <br>
+            <img src="imagens/vileplume.png" alt="vileplume">
+            <li><big>Psyduck</big></li>
+            <br>
+            <img src="imagens/psyduck.png" alt="psyduck">
+            <li><big>Golduck</big></li>
+            <br>
+            <img src="imagens/golduck.png" alt="golduck">
+            <li><big>Growlithe</big></li>
+            <br>
+            <img src="imagens/growlithe.png" alt="growlithe">
+            <li><big>Arcanine</big></li>
+            <br>
+            <img src="imagens/arcanine.png" alt="arcanine">
+            <li><big>Shelder</big></li>
+            <br>
+            <img src="imagens/shelder.png" alt="shelder">
+            <li><big>Cloyster</big></li>
+            <br>
+            <img src="imagens/cloyster.png" alt="cloyster">
+            <li><big>Scyther</big></li>
+            <br>
+            <img src="imagens/scyther.png" alt="scyther">
+            <li><big>Electabuzz</big></li>
+            <br>
+            <img src="imagens/elctabuzz.png" alt="electabuzz">
+            <li><big>Bellossom</big></li>
+            <br>
+            <img src="imagens/bolossom.png" alt="bellossom">
+            <li><big>Wooper</big></li>
+            <br>
+            <img src="imagens/wooper.png" alt="wooper">
+            <li><big>Quagsire</big></li>
+            <br>
+            <img src="imagens/quagsire.png" alt="quagsire">
+            <li><big>Murkrow</big></li>
+            <br>
+            <img src="imagens/murkrow.png" alt="murkrow">
+            <li><big>Qwilfish</big></li>
+            <br>
+            <img src="imagens/qilfish.png" alt="qwilfish">
+            <li><big>Scizor</big></li>
+            <br>
+            <img src="imagens/scyzor.png" alt="scizor">
+            <li><big>Delibird</big></li>
+            <br>
+            <img src="imagens/delibird.png" alt="delibird">
+            <li><big>Skarmory</big></li>
+            <br>
+            <img src="imagens/skarmory.png" alt="skarmory">
+            <li><big>Elekid</big></li>
+            <br>
+            <img src="imagens/elekid.png" alt="elekid">
+            <li><big>Deoxys forma de ataque</big></li>
+            <br>
+            <img src="imagens/deoxys.png" alt="deoxys">
+        </ul>
+        <br>
+        <h3>Pokémon exclusivos do LeafGreen</h3>
+        <ul>
+            <li><big>Sandshrew</big></li>
+            <br>
+            <img src="imagens/sandshrew.png" alt="sandshrew">
+            <li><big>Sandslash</big></li>
+            <br>
+            <img src="imagens/sandslash.png" alt="sandslash">
+            <li><big>Vulpix</big> </li>
+            <br>
+            <img src="imagens/vulpix.png" alt="vulpix">
+            <li><big>Ninetales</big></li>
+            <br>
+            <img src="imagens/ninetales.png" alt="ninetales">
+            <li><big>Bellsprout</big></li>
+            <br>
+            <img src="imagens/bellsprout.png" alt="bellsprout">
+            <li><big>Weepinbell</big></li>
+            <br>
+            <img src="imagens/wepinbell.png" alt="weepinbell">
+            <li><big>Victreebel</big></li>
+            <br>
+            <img src="imagens/victreebell.png" alt="victreebel">
+            <li><big>Slowpoke</big></li>
+            <br>
+            <img src="imagens/slowpoke.png" alt="slowpoke">
+            <li><big>Slowbro</big></li>
+            <br>
+            <img src="imagens/slowbro.png" alt="slowbro">
+            <li><big>Staryu</big></li>
+            <br>
+            <img src="imagens/staryu.png" alt="staryu">
+            <li><big>Starmie</big></li>
+            <br>
+            <img src="imagens/starmie.png" alt="starmie">
+            <li><big>Magmar</big></li>
+            <br>
+            <img src="imagens/magmar.png" alt="magmar">
+            <li><big>Pinsir</big></li>
+            <br>
+            <img src="imagens/pinsir.png" alt="pinsir">
+            <li><big>Marill</big></li>
+            <br>
+            <img src="imagens/marill.png" alt="marill">
+            <li><big>Azumarill</big></li>
+            <br>
+            <img src="imagens/azumarill.png" alt="azumarill">
+            <li><big>Slowking</big></li>
+            <br>
+            <img src="imagens/slowking.png" alt="slowking">
+            <li><big>Misdreavus</big></li>
+            <br>
+            <img src="imagens/misdreavus.png" alt="misdreavus">
+            <li><big>Sneasel</big></li>
+            <br>
+            <img src="imagens/sneasel.png" alt="sneasel">
+            <li><big>Remoraid</big></li>
+            <br>
+            <img src="imagens/remoraid.png" alt="remoraid">
+            <li><big>Octillery</big></li>
+            <br>
+            <img src="imagens/octillery.png" alt="octillery">
+            <li><big>Mantine</big></li>
+            <br>
+            <img src="imagens/mantine.png" alt="mantine">
+            <li><big>Magby</big></li>
+            <br>
+            <img src="imagens/magby.png" alt="magby">
+            <li><big>Azurill</big></li>
+            <br>
+            <img src="imagens/azurill.png" alt="azurill">
+            <li><big>Doexys em forma de Defesa</big></li>
+            <br>
+            <img src="imagens/deoxys defesa.png" alt="deoxys defesa">
+        </ul>
+        <br>
+        <p><big>Com isso, temos todos os pokémon exclusivos de Fire Red e Leaf Green.</big></p>
+    </blockquote>
+</body>
+</html>
